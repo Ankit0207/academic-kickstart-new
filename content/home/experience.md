@@ -78,6 +78,4 @@ title = "Data Science Intern"
   *   Key achievement: Received “Pat on the Back Award” for spearheading the whole team and managing adhoc requests during challenging time.
  
   """
-
-#
 +++
