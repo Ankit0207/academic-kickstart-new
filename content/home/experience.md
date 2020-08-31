@@ -67,7 +67,6 @@ title = "Data Science Intern"
   date_start = "2016-06-06"
   date_end = "2019-06-07"
   description = """
-  """
   *   Performed statistical analysis of FI and SD data and suggested tangible solutions to stakeholders by visualizing the KPI metrics in Tableau.
     
   *   Streamlined workflows and built applications in SAP business modules deploying the applications using the IBM TWS tool.
@@ -75,6 +74,5 @@ title = "Data Science Intern"
   *   Optimized complex SQL Queries for faster data processing which improved the speed and efficiency of applications by 28%.
   
   *   Key achievement: Received “Pat on the Back Award” for spearheading the whole team and managing adhoc requests during challenging time.
- 
   """
 +++
