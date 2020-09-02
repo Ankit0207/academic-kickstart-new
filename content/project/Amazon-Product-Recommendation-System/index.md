@@ -1,6 +1,6 @@
 ---
-title: Automated Image Captioning System
-summary: •	Built an Image Captioning system using Encoder CNN and Decoder LSTM with an attention mechanism to generate relevant captions for any input image. Analyzed the results using BLEU 3, 4 metrics, and deployed the model in real-time using Amazon SageMaker.
+title: Amazon Product Recommendation System
+summary: Transformed data using Spark RRD operations on 5000K reviews. Built a product recommendation system using ALS Collaborative Filtering obtaining an RMSE value of 0.91. 
 tags:
 - NLP
 - DL
