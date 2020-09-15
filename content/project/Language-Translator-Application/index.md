@@ -1,7 +1,7 @@
 
 ---
 title: English to Telugu Language Translator Application
-summary: Developed a English news to Telugu language translator application using LSTM. Encased the application in Flask and orchestrated it on AWS by pushing the containerized Flask application to AWS EC2 instance.
+summary: Developed a English news to Telugu language translator application using LSTM. Encased the application in Flask and orchestrated it on AWS by pushing the containerized Flask application to AWS Linux EC2 instance deploying the application in-live.
 tags:
 - DL
 - Deployments
