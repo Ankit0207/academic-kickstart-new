@@ -1,6 +1,6 @@
 
 ---
-title: Walmart Sales Forecasting
+title: Walmart Sales Forecasting using Time Series Analysis
 summary: Predicted the department wise sales for 45 Walmart stores modeling the effects of markdowns on holidays using the ARIMA and Holt-Winters model. The historical sales data is provided for 45 Walmart stores and each store contains a number of departments. We are tasked with predicting the department-wide sales for each store.
 tags:
 - ML
