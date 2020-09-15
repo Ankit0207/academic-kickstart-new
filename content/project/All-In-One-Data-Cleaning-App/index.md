@@ -1,6 +1,6 @@
 ---
 title: All in One Data Cleaning App
-summary: Launched an Automated App which performs 15 most important data cleaning features and reduces the overall data cleaning time by nearly 30-40%.. 
+summary: Developed an Automated Data Cleaning App which performs 15 most important data cleaning features i.e. handling missing values, all the statistical tests, balancing dataset etc. It reduces the overall data cleaning time by nearly 30-40%. 
 tags:
 - ML
 date: "2020-02-20T00:00:00Z"
