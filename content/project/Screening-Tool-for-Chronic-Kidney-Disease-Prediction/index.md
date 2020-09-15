@@ -1,14 +1,12 @@
 ---
 title: Screening Tool for Chronic Kidney Disease Prediction
-summary: Created an interactive screening tool using R Shiny that predicts the risk of having a chronic Kidney disease using the Logistic regression model attaining 97% recall.
-The screening tool can be used by doctors in finding the probablity of Chronic Kidney Disease in patients.
+summary: Created an interactive screening tool using R Shiny that predicts the risk of having a chronic Kidney disease using the Logistic regression model attaining 97% recall. The screening tool can be used by doctors in finding the probablity of Chronic Kidney Disease in patients.
 tags:
-- NLP
-- DL
+- ML
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/VipanchiKatthula/TwitterSentimentAnalysis"
+external_link: "https://github.com/ankitbvs/All-in-One-Data-Cleaning-App"
 
 image:
   caption: 
