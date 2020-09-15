@@ -1,6 +1,6 @@
 
 ---
-title: SkyWest Airlines Competitor Visualization
+title: SkyWest Airlines Competitor Visualization in Tableu
 summary: Created interactive dashboards to visually represent KPIs for for the performance of SkyWest Airlines in the United States. Analyzed the metrics like airlines delay, cause of delays etc. and compared it's performance with the rest of the US airlines.   
 tags:
 - Visualizations
