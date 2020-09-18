@@ -1,7 +1,6 @@
 ---
 title: Prediction of Diabetes using Insurance Claims Dataset
-summary: Built a predictive model to find the risk of diabetes in patients using Insurance Claims dataset. Featurized the Insurance claims data, and train and optimize a 
-predictive SVC model and found out probability of diabetes in each patient.
+summary: Built a predictive model to find the risk of diabetes in patients using Insurance Claims dataset. Featurized the Insurance claims data, and train and optimize a predictive SVC model and found out probability of diabetes in each patient.
 tags:
 - ML
 - HEALTH
