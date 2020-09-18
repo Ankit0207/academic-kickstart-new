@@ -3,7 +3,7 @@ title: Prediction of EMR Usage using Hints Survery Form
 summary: Transformed data using Spark RRD operations on 5000K reviews. Built a product recommendation system using ALS Collaborative Filtering obtaining an RMSE value of 0.91. The data set contains data for 287,209 products with 5,074,160 reviews and ratings by 1, 57,386 users.
 tags:
 - ML
-- Health
+- HEALTH
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
