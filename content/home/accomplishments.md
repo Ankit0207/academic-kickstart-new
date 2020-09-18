@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   date_start = "2016-04-15"
   date_end = ""
-  description = "Led a team of 7 members and adept at managing adhoc requests during challenging times"
+  description = * "Led a team of 7 members and adept at managing adhoc requests during challenging times"
 
 [[item]]
   organization = "CEC"
