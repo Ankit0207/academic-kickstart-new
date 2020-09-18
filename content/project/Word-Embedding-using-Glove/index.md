@@ -7,7 +7,7 @@ tags:
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/VipanchiKatthula/TwitterSentimentAnalysis"
+external_link: "https://github.com/ankitbvs/Word-Embedding-using-Glove"
 
 image:
   caption: 
