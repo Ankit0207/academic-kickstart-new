@@ -1,12 +1,12 @@
 ---
-title: All in One Data Cleaning App
-summary: Developed an Automated Data Cleaning App which performs 15 most important data cleaning features i.e. handling missing values, correlation tests, statistical tests, balancing dataset using sampling techniques etc. It reduces the overall data cleaning time by nearly 30-40%. 
+title: Document Similarity Identifier
+summary: Calculated similarity between the documents 'UIC' with 'UIUC', 'MIT','UIS','Tesla', and 'Stanford' text documents. Peformed Jaccard similarity and cosine similarity functions on the text documents and obtained the similarity between UIC and rest of the documents.
 tags:
-- ML
+- NLP
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ankitbvs/All-in-One-Data-Cleaning-App"
+external_link: "https://github.com/ankitbvs/Document-Similarity-Identifier"
 
 image:
   caption: 
