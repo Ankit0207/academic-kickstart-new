@@ -2,7 +2,8 @@
 title: Mapper Reducer Implementation from Scratch
 summary: Developed a mapper reducer function which can perform the same functionalities of a mapper reducer used in big data applications. Implemented Multi-threading operations for faster functionality of Mapper-Reducer function by parallel processing of data.
 tags:
-- Big Data
+- BD
+- DE
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
