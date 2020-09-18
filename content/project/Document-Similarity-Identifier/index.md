@@ -1,13 +1,12 @@
 ---
-title: Document Similarity Identifier
-summary: Calculate the similarity between the documents 'UIC' with 'UIUC', 'MIT','UIS','Tesla', and 'Stanford' text documents. Used Jaccard similarity and cosine similarity
-function to create a document similarity function which finds out how similar are documents.
+title: All in One Data Cleaning App
+summary: Developed an Automated Data Cleaning App which performs 15 most important data cleaning features i.e. handling missing values, correlation tests, statistical tests, balancing dataset using sampling techniques etc. It reduces the overall data cleaning time by nearly 30-40%. 
 tags:
-- NLP
+- ML
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ankitbvs/Document-Similarity-Identifier"
+external_link: "https://github.com/ankitbvs/All-in-One-Data-Cleaning-App"
 
 image:
   caption: 
@@ -30,4 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
