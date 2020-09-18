@@ -1,15 +1,12 @@
-
 ---
-title: Mapper Reducer Implementation from Scratch
-
-summary: develop a mapper reducer function which can perform the same functionalities of a mapper reducer used in big data applications. 
-
+title: All in One Data Cleaning App
+summary: Developed an Automated Data Cleaning App which performs 15 most important data cleaning features i.e. handling missing values, correlation tests, statistical tests, balancing dataset using sampling techniques etc. It reduces the overall data cleaning time by nearly 30-40%. 
 tags:
-- BD
+- ML
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ankitbvs/Mapper-Reducer-Implementation-from-Scratch"
+external_link: "https://github.com/ankitbvs/All-in-One-Data-Cleaning-App"
 
 image:
   caption: 
@@ -32,4 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
