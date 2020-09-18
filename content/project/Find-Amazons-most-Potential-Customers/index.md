@@ -2,7 +2,8 @@
 title: Find Amazons most potential customers using Spark Operations
 summary: Performed Apache Spark operations and found out the list of customers who are active on Amazon. This would be helpful to Amazon as it is conducting an A/B testing experiment on potential target users and want to know if customers list which they have are ACTIVE users or not.
 tags:
-- NLP
+- BD
+- DE
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
