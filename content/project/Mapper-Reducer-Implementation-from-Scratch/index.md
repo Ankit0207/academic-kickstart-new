@@ -1,7 +1,9 @@
 
 ---
 title: Mapper Reducer Implementation from Scratch
+
 summary: develop a mapper reducer function which can perform the same functionalities of a mapper reducer used in big data applications. 
+
 tags:
 - BD
 date: "2020-02-20T00:00:00Z"
