@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Supervised Learning"
-    tag = "SL"
+    name = "Machine Learning"
+    tag = "ML"
  
   [[content.filter_button]]
     name = "Deep Learning"
-    tag = "Deep Learning"
+    tag = "DL"
     
   [[content.filter_button]]
     name = "Natural Language Processing"
@@ -39,19 +39,24 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Big Data"
-    tag = "Big Data"
+    tag = "BD"
+  
+  [[content.filter_button]]
+    name = "Health Care"
+    tag = "HEALTH"  
+ 
+  [[content.filter_button]]
+    name = "Data Engineering"
+    tag = "DE"
     
   [[content.filter_button]]
     name = "Deployment"
-    tag = "Deployment"
+    tag = "DP"
     
-  [[content.filter_button]]
-    name = "Research"
-    tag = "Research"
+   [[content.filter_button]]
+    name = "Visualizations"
+    tag = "VS" 
     
-  [[content.filter_button]]
-    name = "Tableau"
-    tag = "Tableau"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
