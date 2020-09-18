@@ -1,12 +1,13 @@
 ---
-title: Word Embedding using Glove
-summary: Performed word embeddings using Glove on the wikipedia document of 'UIC' and created a scatter plot to see the clusters of the projections. These embeddings are a type of word representation that allows words with similar meaning to have a similar representation.
+title: Automated ETL pipeline to Analyze US-Security Financial Documents
+summary: Objective of this assignment is to extract some sections (which are mentioned below) from SEC / EDGAR financial reports and perform text analysis to compute variables those are explained below. Link to SEC / EDGAR financial reports are given in excel spreadsheet “cik_list.xlsx”.
 tags:
 - NLP
+- DE
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ankitbvs/Word-Embedding-using-Glove"
+external_link: "https://github.com/ankitbvs/Automated-ETL-pipeline-to-Analyze-US-Security-Financial-Documents"
 
 image:
   caption: 
