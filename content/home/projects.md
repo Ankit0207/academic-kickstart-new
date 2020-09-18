@@ -34,7 +34,7 @@ subtitle = ""
     tag = "DL"
     
   [[content.filter_button]]
-    name = "Natural Language Processing"
+    name = "NLP"
     tag = "NLP"
 
   [[content.filter_button]]
