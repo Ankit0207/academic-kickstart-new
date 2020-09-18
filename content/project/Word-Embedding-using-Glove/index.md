@@ -1,12 +1,12 @@
 ---
-title: All in One Data Cleaning App
-summary: Developed an Automated Data Cleaning App which performs 15 most important data cleaning features i.e. handling missing values, correlation tests, statistical tests, balancing dataset using sampling techniques etc. It reduces the overall data cleaning time by nearly 30-40%. 
+title: Word Embedding using Glove
+summary: Performed word embeddings using Glove on the wikipedia document of 'UIC' and created a scatter plot to see the clusters of the projections. These embeddings are a type of word representation that allows words with similar meaning to have a similar representation.
 tags:
-- ML
+- NLP
 date: "2020-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ankitbvs/All-in-One-Data-Cleaning-App"
+external_link: "https://github.com/ankitbvs/Word-Embedding-using-Glove"
 
 image:
   caption: 
